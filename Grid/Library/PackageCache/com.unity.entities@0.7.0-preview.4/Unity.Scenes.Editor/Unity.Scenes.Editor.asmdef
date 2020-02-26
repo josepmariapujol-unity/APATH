@@ -1,0 +1,29 @@
+{
+    "name": "Unity.Scenes.Editor",
+    "references": [
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.Entities.Hybrid",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Platforms",
+        "Unity.Platforms.Build",
+        "Unity.Platforms.Build.Classic",
+        "Unity.Platforms.Build.Common",
+        "Unity.Platforms.Build.Internals",
+        "Unity.Scenes.Hybrid",
+        "Unity.ScriptableBuildPipeline.Editor",
+        "Unity.Properties"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

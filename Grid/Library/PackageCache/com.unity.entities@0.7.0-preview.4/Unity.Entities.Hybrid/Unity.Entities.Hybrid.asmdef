@@ -1,0 +1,33 @@
+{
+    "name": "Unity.Entities.Hybrid",
+    "references": [
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Entities",
+        "Unity.Jobs",
+        "Unity.Mathematics",
+        "Unity.Mathematics.Extensions",
+        "Unity.Platforms.Build",
+        "Unity.Platforms.Build.Classic",
+        "Unity.Platforms.Build.Common",
+        "Unity.Properties",
+        "Unity.Properties.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "XboxOne"
+    ],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.physics",
+            "expression": "",
+            "define": "LEGACY_PHYSICS"
+        }
+    ],
+    "noEngineReferences": false
+}

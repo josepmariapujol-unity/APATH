@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="BugSamples" t="Include">
+          <e p="RotateAndLinearBug" t="Include">
+            <e p="RotateAndLinearBugSystem.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include">
+          <e p="JonathanTestEnvironment" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Components" t="Include">
+                <e p="LocalPlayerTag.cs" t="Include" />
+                <e p="MovementData.cs" t="Include" />
+                <e p="RotationData.cs" t="Include" />
+                <e p="ShootingData.cs" t="Include" />
+              </e>
+              <e p="GameManager.cs" t="Include" />
+              <e p="Systems" t="Include">
+                <e p="CameraUpdateSystem.cs" t="Include" />
+                <e p="FPSControllerSystem.cs" t="Include" />
+                <e p="JumpSystem.cs" t="Include" />
+                <e p="MovementSystem.cs" t="Include" />
+                <e p="RotationSystem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="JosepTestEnvironment" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="DataComponentsJosep" t="Include">
+                <e p="EnemyMovementDataJosep.cs" t="Include" />
+                <e p="EnemyTagDataJosep.cs" t="Include" />
+                <e p="PlayerInputDataJosep.cs" t="Include" />
+                <e p="PlayerMovementDataJosep.cs" t="Include" />
+                <e p="PlayerSpawnerDataJosep.cs" t="Include" />
+                <e p="PlayerTagDataJosep.cs" t="Include" />
+                <e p="PrefabEntityComponentJosep.cs" t="Include" />
+              </e>
+              <e p="Pathfinding.cs" t="Include" />
+              <e p="PathfindingJosep.cs" t="Include" />
+              <e p="SystemsJosep" t="Include">
+                <e p="EnemyEntitySpawnerSystemJosep.cs" t="Include" />
+                <e p="EnemyMovementSystemJosep.cs" t="Include" />
+                <e p="EnemySpawnerSystemJosep.cs" t="Include" />
+                <e p="PlayerInputSystemJosep.cs" t="Include" />
+                <e p="PlayerJumpingSystemJosep.cs" t="Include" />
+                <e p="PlayerMovementSystemJosep.cs" t="Include" />
+                <e p="TestTriggers.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="MathiasEnvironment" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Components" t="Include">
+                <e p="CubeMoveTag.cs" t="Include" />
+                <e p="OldComponents" t="Include">
+                  <e p="PrefabEntity.cs" t="Include" />
+                </e>
+                <e p="PrefabEntityComponent.cs" t="Include" />
+              </e>
+              <e p="Systems" t="Include">
+                <e p="Bounce.cs" t="Include" />
+                <e p="EntitySpawnerSystem.cs" t="Include" />
+                <e p="MovePrefabSystem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="STW.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_STW.1641553243.00" t="ExcludeRecursive" />
+  </component>
+</project>

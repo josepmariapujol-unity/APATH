@@ -1,0 +1,20 @@
+{
+    "name": "Unity.Platforms.Build",
+    "references": [
+        "Unity.Platforms",
+        "Unity.Properties",
+        "Unity.Serialization",
+        "Unity.Serialization.Properties"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

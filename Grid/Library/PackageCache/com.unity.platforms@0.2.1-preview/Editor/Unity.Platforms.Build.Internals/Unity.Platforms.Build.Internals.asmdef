@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Platforms.Build.Internals",
+    "references": [
+        "Unity.Platforms.Build"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

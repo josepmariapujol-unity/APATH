@@ -1,0 +1,58 @@
+Base path: '/Applications/2019.3.0f6/Unity.app/Contents', plugins path '/Applications/2019.3.0f6/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=9375 outsize=16169 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=12646 outsize=7601 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2071 outsize=3252 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=4026 outsize=1161 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=1372 outsize=1336 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=3158 outsize=48832 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4153 outsize=7679 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=40246 outsize=52968 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=51027 outsize=95570 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1472 outsize=2240 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=22295 outsize=16544 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5168 outsize=13097 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=9617 outsize=2527 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=26542 outsize=16225 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=25286 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=51795 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=71280 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=58709 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=48405 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=15784 outsize=53332 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=57783 outsize=107759 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=72255 outsize=142574 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=59564 outsize=113227 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=49300 outsize=86681 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=74556 outsize=149000 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1525 outsize=1410 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=1881 outsize=2337 ok=1
+
+Quitting shader compiler process

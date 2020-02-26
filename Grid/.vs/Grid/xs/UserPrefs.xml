@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C6ACF092-1F58-20C9-8A72-B3244B32DFEC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Pathfinding/Scripts/Pathfinding.cs">
+    <Files>
+      <File FileName="Assets/Pathfinding/Scripts/CharacterPathfindingMovementHandler.cs" Line="99" Column="55" />
+      <File FileName="Assets/Pathfinding/Scripts/Testing.cs" Line="39" Column="3" />
+      <File FileName="Assets/Pathfinding/Scripts/Pathfinding.cs" Line="45" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4542ad48-a082-48f2-99c4-6b2ea418bae9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

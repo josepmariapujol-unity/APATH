@@ -1,0 +1,19 @@
+{
+    "name": "Unity.Platforms.Build.Common",
+    "references": [
+        "Unity.Platforms",
+        "Unity.Platforms.Build",
+        "Unity.Properties"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
